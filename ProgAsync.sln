@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex06_GestionErreurs", "Ex06
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex07_AnnulationTaches", "Ex07\Ex07_AnnulationTaches.csproj", "{EDC83DE2-4675-48B0-B21B-74AA12B377B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex08_ProgressionIProgress", "Ex08\Ex08_ProgressionIProgress.csproj", "{5ECE9C90-C11E-479A-8A12-ED6B06CB5C69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{EDC83DE2-4675-48B0-B21B-74AA12B377B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDC83DE2-4675-48B0-B21B-74AA12B377B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDC83DE2-4675-48B0-B21B-74AA12B377B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ECE9C90-C11E-479A-8A12-ED6B06CB5C69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ECE9C90-C11E-479A-8A12-ED6B06CB5C69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ECE9C90-C11E-479A-8A12-ED6B06CB5C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ECE9C90-C11E-479A-8A12-ED6B06CB5C69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
