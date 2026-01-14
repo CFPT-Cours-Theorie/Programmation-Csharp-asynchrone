@@ -12,37 +12,3 @@
 
 # macOS
 .DS_Store
-
-
-# ===== C# GIT IGNORE =====
-# Build results
-bin/
-obj/
-
-# Content Pipeline intermediate files
-*.xnb
-*.cache
-
-# Rider / JetBrains
-.idea/
-
-# Debugging & runtime files
-*.dll
-*.exe
-*.pdb
-
-# NuGet packages
-*.nupkg
-packages/
-project.lock.json
-project.assets.json
-
-# Visual Studio Code settings
-.vscode/
-
-# MonoGame Pipeline Tool cache
-Content/bin/
-Content/obj/
-
-# Logs
-*.log
