@@ -31,7 +31,6 @@ namespace Ex08
 
             await Tester(10);
             await Tester(20);
-            await Tester(30);
             // await Tester(50);
         }
     }
